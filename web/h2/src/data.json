@@ -1,0 +1,358 @@
+{
+    "upgrades": [
+      {
+        "type": "Click",
+        "typeID": 1,
+        "name": "Plastic mouse",
+        "desc": "Clicking gains +1% of your CpS.",
+        "flavor": "\"Slightly squeaky.\"",
+        "cost": 50000,
+        "image": "../assets/upgrade/click/click-1.png"
+      },
+      {
+        "type": "Click",
+        "typeID": 2,
+        "name": "Iron mouse",
+        "desc": "Clicking gains +1% of your CpS.",
+        "flavor": "\"Click like it's 1,349!\"",
+        "cost": 5000000,
+        "image": "../assets/upgrade/click/click-2.png"
+      },
+      {
+        "type": "Click",
+        "typeID": 3,
+        "name": "Titanium mouse",
+        "desc": "Clicking gains +1% of your CpS.",
+        "flavor": "\"Heavy, but powerful.\"",
+        "cost": 500000000,
+        "image": "../assets/upgrade/click/click-3.png"
+      },
+      {
+        "type": "Cursor",
+        "typeID": 1,
+        "name": "Reinforced index finger",
+        "desc": "The cursors are twice as efficient.",
+        "flavor": "\"prod prod\"",
+        "cost": 100,
+        "image": "../assets/upgrade/cursor/cursor-1.png"
+      },
+      {
+        "type": "Cursor",
+        "typeID": 2,
+        "name": "Carpal tunnel prevention cream",
+        "desc": "The cursors are twice as efficient.",
+        "flavor": "\"it... it hurts to click...\"",
+        "cost": 500,
+        "image": "../assets/upgrade/cursor/cursor-2.png"
+      },
+      {
+        "type": "Cursor",
+        "typeID": 3,
+        "name": "Ambidextrous",
+        "desc": "The cursors are twice as efficient.",
+        "flavor": "\"Look ma, both hands!\"",
+        "cost": 10000,
+        "image": "../assets/upgrade/cursor/cursor-3.png"
+      },
+      {
+        "type": "Grandma",
+        "typeID": 1,
+        "name": "Forwards from grandma",
+        "desc": "Grandmas are twice as efficient.",
+        "flavor": "\"RE:RE:thought you'd get a kick out of this ;))\"",
+        "cost": 1000,
+        "image": "../assets/upgrade/grandma/grandma-1.png"
+      },
+      {
+        "type": "Grandma",
+        "typeID": 2,
+        "name": "Steel-plated rolling pins",
+        "desc": "Grandmas are twice as efficient.",
+        "flavor": "\"Just what you kneaded.\"",
+        "cost": 5000,
+        "image": "../assets/upgrade/grandma/grandma-2.png"
+      },
+      {
+        "type": "Grandma",
+        "typeID": 3,
+        "name": "Lubricated dentures",
+        "desc": "Grandmas are twice as efficient.",
+        "flavor": "\"squish\"",
+        "cost": 50000,
+        "image": "../assets/upgrade/grandma/grandma-3.png"
+      },
+      {
+        "type": "Farm",
+        "typeID": 1,
+        "name": "Cheap hoes",
+        "desc": "Farms are twice as efficient.",
+        "flavor": "\"Rake in the dough!\"",
+        "cost": 11000,
+        "image": "../assets/upgrade/farm/farm-1.png"
+      },
+      {
+        "type": "Farm",
+        "typeID": 2,
+        "name": "Fertilizer",
+        "desc": "Farms are twice as efficient.",
+        "flavor": "\"It's chocolate, I swear.\"",
+        "cost": 55000,
+        "image": "../assets/upgrade/farm/farm-2.png"
+      },
+      {
+        "type": "Farm",
+        "typeID": 3,
+        "name": "Cookie trees",
+        "desc": "Farms are twice as efficient.",
+        "flavor": "\"A relative of the breadfruit.\"",
+        "cost": 550000,
+        "image": "../assets/upgrade/farm/farm-3.png"
+      },
+      {
+        "type": "Mine",
+        "typeID": 1,
+        "name": "Sugar gas",
+        "desc": "Mines are twice as efficient.",
+        "flavor": "\"A pink, volatile gas, found in the depths of some chocolate caves.\"",
+        "cost": 120000,
+        "image": "../assets/upgrade/mine/mine-1.png"
+      },
+      {
+        "type": "Mine",
+        "typeID": 2,
+        "name": "Megadrill",
+        "desc": "Mines are twice as efficient.",
+        "flavor": "\"You're in deep.\"",
+        "cost": 600000,
+        "image": "../assets/upgrade/mine/mine-2.png"
+      },
+      {
+        "type": "Mine",
+        "typeID": 3,
+        "name": "Ultradrill",
+        "desc": "Mines are twice as efficient.",
+        "flavor": "\"Finally caved in?\"",
+        "cost": 6000000,
+        "image": "../assets/upgrade/mine/mine-3.png"
+      },
+      {
+        "type": "Factory",
+        "typeID": 1,
+        "name": "Sturdier conveyor belts",
+        "desc": "Factories are twice as efficient.",
+        "flavor": "\"You're going places.\"",
+        "cost": 1300000,
+        "image": "../assets/upgrade/factory/factory-1.png"
+      },
+      {
+        "type": "Factory",
+        "typeID": 2,
+        "name": "Berrylium factory",
+        "desc": "Factories are twice as efficient.",
+        "flavor": "\"Cheaper, healthier workforce.\"",
+        "cost": 6500000,
+        "image": "../assets/upgrade/factory/factory-2.png"
+      },
+      {
+        "type": "Factory",
+        "typeID": 3,
+        "name": "Blueberrylium factory",
+        "desc": "Factories are twice as efficient.",
+        "flavor": "\"Slackers will be terminated.\"",
+        "cost": 65000000,
+        "image": "../assets/upgrade/factory/factory-3.png"
+      }
+    ],
+    "achievements": [
+      {
+        "type": "Bake",
+        "typeID": 1,
+        "name": "Wake and bake",
+        "desc": "Bake 1 cookie in one ascension",
+        "image": "../assets/achievement/bake/bake-1.png"
+      },
+      {
+        "type": "Bake",
+        "typeID": 2,
+        "name": "Making some dough",
+        "desc": "Bake 1,000 cookies in one ascension",
+        "image": "../assets/achievement/bake/bake-2.png"
+      },
+      {
+        "type": "Bake",
+        "typeID": 3,
+        "name": "So baked right now",
+        "desc": "Bake 100,000 cookies in one ascension",
+        "image": "../assets/achievement/bake/bake-3.png"
+      },
+      {
+        "type": "Bake",
+        "typeID": 4,
+        "name": "Fledgling bakery",
+        "desc": "Bake 1 million cookies in one ascension",
+        "image": "../assets/achievement/bake/bake-4.png"
+      },
+      {
+        "type": "Cps",
+        "typeID": 1,
+        "name": "Casual baking",
+        "desc": "Bake 1 cookie per second",
+        "image": "../assets/achievement/cps/cps-1.png"
+      },
+      {
+        "type": "Cps",
+        "typeID": 2,
+        "name": "Hardcore baking",
+        "desc": "Bake 10 cookies per second",
+        "image": "../assets/achievement/cps/cps-2.png"
+      },
+      {
+        "type": "Cps",
+        "typeID": 3,
+        "name": "Steady tasty stream",
+        "desc": "Bake 100 cookies per second",
+        "image": "../assets/achievement/cps/cps-3.png"
+      },
+      {
+        "type": "Cps",
+        "typeID": 4,
+        "name": "Cookie monster",
+        "desc": "Bake 1,000 cookies per second",
+        "image": "../assets/achievement/cps/cps-4.png"
+      },
+      {
+        "type": "Cps",
+        "typeID": 5,
+        "name": "Mass producer",
+        "desc": "Bake 10,000 cookies per second",
+        "image": "../assets/achievement/cps/cps-5.png"
+      },
+      {
+        "type": "Click",
+        "typeID": 1,
+        "name": "Clicktastic",
+        "desc": "Make 1,000 cookies from clicking",
+        "image": "../assets/achievement/click/click-1.png"
+      },
+      {
+        "type": "Click",
+        "typeID": 2,
+        "name": "Clickathlon",
+        "desc": "Make 100,000 cookies from clicking",
+        "image": "../assets/achievement/click/click-2.png"
+      },
+      {
+        "type": "Click",
+        "typeID": 3,
+        "name": "Clickolympics",
+        "desc": "Make 10 million cookies from clicking",
+        "image": "../assets/achievement/click/click-3.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 1,
+        "name": "Click",
+        "desc": "Have 1 cursor",
+        "image": "../assets/achievement/building/cursor/cursor-1.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 2,
+        "name": "Double-click",
+        "desc": "Have 2 cursors",
+        "image": "../assets/achievement/building/cursor/cursor-2.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 3,
+        "name": "Mouse wheel",
+        "desc": "Have 50 cursors",
+        "image": "../assets/achievement/building/cursor/cursor-3.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 1,
+        "name": "Grandma's cookies",
+        "desc": "Have 1 grandma",
+        "image": "../assets/achievement/building/grandma/grandma-1.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 2,
+        "name": "Sloppy kisses",
+        "desc": "Have 50 grandmas",
+        "image": "../assets/achievement/building/grandma/grandma-2.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 3,
+        "name": "Retirement home",
+        "desc": "Have 100 grandmas",
+        "image": "../assets/achievement/building/grandma/grandma-3.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 1,
+        "name": "Bought the farm",
+        "desc": "Have 1 farm",
+        "image": "../assets/achievement/building/farm/farm-1.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 2,
+        "name": "Reap what you sow",
+        "desc": "Have 50 farms",
+        "image": "../assets/achievement/building/farm/farm-2.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 3,
+        "name": "Farm ill",
+        "desc": "Have 100 farms",
+        "image": "../assets/achievement/building/farm/farm-3.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 1,
+        "name": "You know the drill",
+        "desc": "Have 1 mine",
+        "image": "../assets/achievement/building/mine/mine-1.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 2,
+        "name": "Excavation site",
+        "desc": "Have 50 mines",
+        "image": "../assets/achievement/building/mine/mine-2.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 3,
+        "name": "Hollow the planet",
+        "desc": "Have 100 mines",
+        "image": "../assets/achievement/building/mine/mine-3.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 1,
+        "name": "Production chain",
+        "desc": "Have 1 factory",
+        "image": "../assets/achievement/building/factory/factory-1.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 2,
+        "name": "Industrial revolution",
+        "desc": "Have 50 factories",
+        "image": "../assets/achievement/building/factory/factory-2.png"
+      },
+      {
+        "type": "Building",
+        "typeID": 3,
+        "name": "Global warming",
+        "desc": "Have 100 factories",
+        "image": "../assets/achievement/building/factory/factory-3.png"
+      }
+    ]
+  }
+  
