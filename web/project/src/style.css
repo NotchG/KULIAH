@@ -5,9 +5,10 @@
 }
 
 body {
+    background-color: black;
     background-image: url("../assets/web/background/color.png");
-    background-image: no-repeat;
     background-size: cover;
+    background-repeat: repeat-y;
 }
 
 .header {
@@ -33,6 +34,18 @@ body {
 .header .navbar img {
     vertical-align: middle;
     margin-right: 20px;
+}
+
+.playDemo {
+    border: 2px solid white;
+    padding: 10px;
+    transition-timing-function: ease-out;
+    transition: color 1s, background 1s;
+}
+
+.playDemo:hover {
+    background-color: white;
+    color: maroon;
 }
 
 .navbar a::before {
@@ -72,4 +85,26 @@ body {
     top: 0;
     left: 0;
     object-fit: center;
+}
+
+.latestNewsSection {
+    padding: 100px;
+}
+
+.latestNewsSection h1 {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: maroon;
+}
+
+.watchTrailerSection {
+    margin-top: 56px;
+    width: 100%;
+    text-align: center;
+}
+
+.watchTrailerSection h1 {
+    color: white;
+    text-decoration: underline;
+    text-decoration-color: maroon;
 }
